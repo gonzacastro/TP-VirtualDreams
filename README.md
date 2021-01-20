@@ -1,6 +1,6 @@
 # TP-VirtualDreams
-Resolución del trabajo práctico
---- Ejercicio 2 ---
+##Resolución del trabajo práctico
+###--- Ejercicio 2 ---
 Las siguientes preguntas están orientadas a la comprensión del protocolo HTTP. Son agnósticas al lenguaje de programación, la idea es comprender los conceptos del estándar:
 1.	¿Qué es un servidor HTTP? 
 Un servidor HTTP o servidor web es un software que se encarga de realizar conexiones con el cliente desde el lado del servidor. Este genera una respuesta en base a las peticiones que recibe (bajo el protocolo HTTP), ya sea un documento o aplicación, que se envía al cliente, la cual es renderizada por el navegador web.
@@ -69,7 +69,7 @@ Los headers en un request contienen información en formato de parámetros que e
 El key Content-Type en un header es una propiedad utilizada para indicar el tipo de contenido o formato del dato que se está enviando. Ejemplo: 
 Content-Type: image/jpg
 
---- Ejercicio 3 ---
+###--- Ejercicio 3 ---
 La resolución se encuentra en el PDF en la carpeta "/ejercicio3".
 
 --- Ejercicio 4 ---
@@ -81,7 +81,7 @@ Instrucciones de uso:
 3- Ingresar por consola el siguiente comando para ejecutar el script:
 . npm start
 
---- Ejercicio 5 y 6 ---
+###--- Ejercicio 5 y 6 ---
 Instrucciones de uso:
 1- Dirigirse a la carpeta "/ejercicio5y6-servidor".
 2- Instalar por consola los módulos mediante los siguientes comandos:
