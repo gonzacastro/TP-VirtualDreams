@@ -33,6 +33,7 @@ Por otro lado, en un POST, el envío de datos se realiza con el mismo formato de
 El verbo que se utiliza al acceder a una página web es GET ya que en la petición solicitamos los datos necesarios para mostrar dicha página.
 
 8.	Explicar brevemente qué son las estructuras de datos JSON y XML dando ejemplo de estructuras posibles.
+#### ACLARACION: para poder ver correctamente el formato de los ejemplos en este punto es de convenir seleccionar ver el archivo README.md en formato RAW.
 -	JSON (JavaScript Object Notation) es un formato ligero de texto que permite el almacenamiento e intercambio de datos y resulta bastante sencillo de leer e interpretar, tanto para el programador como para la computadora. Ejemplo:
 {
 		“nombre”: “Diego”,
