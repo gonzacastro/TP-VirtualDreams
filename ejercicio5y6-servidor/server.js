@@ -30,7 +30,7 @@ app.post('/', (req, res) => {
                     res.send('Status Code: 500');
                 else
                     //Peticion exitosa 
-                    console.log(req);
+                    //console.log(req);
                     res.send('Status Code: 201');
             }
         )
