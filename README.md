@@ -54,6 +54,7 @@ El verbo que se utiliza al acceder a una página web es GET ya que en la petici�
 </gustos>
 </persona>
 
+
 9.	Explicar brevemente el estándar SOAP.
 El estándar SOAP (Simple Object Access Protocol) establece cómo dos objetos en procesos diferentes se pueden comunicar mediante el intercambio de datos, el cual se efectúa con la utilización de mensajes SOAP. Dichos mensajes son documentos XML y poseen una estructura definida:
 -	Envelope: raíz de la estructura, por lo tanto, es obligatoria, ya que identifica al mensaje como tal.
@@ -72,7 +73,7 @@ Content-Type: image/jpg
 ### --- Ejercicio 3 ---
 La resolución se encuentra en el PDF en la carpeta "/ejercicio3".
 
---- Ejercicio 4 ---
+### --- Ejercicio 4 ---
 Instrucciones de uso:
 1- Dirigirse a la carpeta "/ejercicio4".
 2- Instalar por consola los módulos mediante los siguientes comandos:
